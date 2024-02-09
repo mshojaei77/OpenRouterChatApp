@@ -58,6 +58,6 @@ Feel free to fork the repository and submit pull requests for improvements or ne
 
 ---
 
-Please note that the actual API URL and header fields (`HTTP-Referer`, `X-Title`) may need to be adjusted according to the specific requirements of [the OpenRouter API](https://openrouter.ai/docs#api-keys)https://openrouter.ai/docs#api-keys.
+Please note that the actual API URL and header fields (`HTTP-Referer`, `X-Title`) may need to be adjusted according to the specific requirements of [the OpenRouter API](https://openrouter.ai/docs#api-keys).
 
 
