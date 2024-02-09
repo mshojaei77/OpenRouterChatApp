@@ -44,6 +44,14 @@ Replace `$YOUR_SITE_URL` and `$YOUR_APP_NAME` in the headers with the appropriat
 
 Upon execution, the script will prompt you to select an AI model from the list provided. After selecting a model, you can begin typing messages to interact with the AI. Type `exit` or `quit` to terminate the session.
 
+## Future Updates:
+
+- **Web App Integration**: Plans are underway to develop a web application version of the OpenRouter Chat App using Flask. This will enable users to interact with the AI models via a browser-based interface, providing an alternative to the current command-line approach.
+
+- **Telegram Bot Deployment**: There are plans to integrate the OpenRouter Chat App functionality into a Telegram bot. Users will be able to engage with the AI models directly from their Telegram messenger, offering a convenient way to chat with the AI models on-the-go.
+
+Stay tuned for updates on these features, which aim to expand the reach and usability of the OpenRouter Chat App across different platforms.
+
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or new features.
@@ -51,3 +59,5 @@ Feel free to fork the repository and submit pull requests for improvements or ne
 ---
 
 Please note that the actual API URL and header fields (`HTTP-Referer`, `X-Title`) may need to be adjusted according to the specific requirements of [the OpenRouter API](https://openrouter.ai/docs#api-keys)https://openrouter.ai/docs#api-keys.
+
+
