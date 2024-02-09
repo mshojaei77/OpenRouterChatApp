@@ -25,7 +25,7 @@ python openrouter_chat_app.py
 
 ## Features
 
-- **Model Selection**: Choose from a list of available AI models.
+- **Model Selection**: Choose from a list of available AI models (you can add more models base on your api here is [Supported Models](https://openrouter.ai/docs#models)).
 - **Conversation History**: Maintains the last  30 messages to provide context for AI responses.
 - **Asynchronous HTTP Requests**: Utilizes `asyncio` and `aiohttp` for efficient handling of API calls.
 - **Rate Limiting**: Implements a semaphore to limit concurrent API requests to  10.
